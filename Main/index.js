@@ -7,7 +7,7 @@ init();
 
 
 function init() {
-  const logoText = logo({ name: "Employee Manager" }).render();
+  const logoText = logo({ name: "Track That Employee!" }).render();
 
   console.log(logoText);
 
